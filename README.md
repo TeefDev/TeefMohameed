@@ -21,7 +21,7 @@ GitHub · Visual Studio · VS Code
 
 ### 🧠 What I Do
 - Build interactive and user-friendly web interfaces  
-- Develop full-stack systems using C# and ASP.NET and sql server
+- Develop full-stack systems using C# and ASP.NET and SQL Server
 - Design and optimize professional database structures  
 - Translate requirements into real, impactful software solutions  
 - Create high-quality projects with clean architecture and strong performance  
