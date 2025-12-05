@@ -7,6 +7,11 @@
 
 ---
 
+🎓 Education  
+Diploma in Programming Technology — Imam Mohammad Ibn Saud University
+
+---
+
 ### 🔧 Languages & Tools
 C# · ASP.NET · SQL Server ·  
 HTML · CSS · JavaScript ·  
